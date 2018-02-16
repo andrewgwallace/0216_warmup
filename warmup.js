@@ -1,6 +1,6 @@
 var movies = [];
 
-movies.pop("Star Wars");
+movies.push("Star Wars");
 movies.push("Requiem for a Dream");
 movies.push("The Wrestler");
 movies.push("Shawshank Redemption");
@@ -14,6 +14,7 @@ movies.push("Indiana Jones and the Last Crusade");
 // console.log(movies.pop());
 // console.log(movies.sort());
 // movies.reverse();
+// movies.pop("Star Wars");
 // movies.toString();
 // movies.shift();
 
